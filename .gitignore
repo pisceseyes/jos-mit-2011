@@ -1,17 +1,15 @@
-# Object files
-*.o
-
-# Libraries
-*.lib
-*.a
-
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
-
-# Executables
-*.exe
-*.out
-*.app
+/obj
+/jos.in
+/jos.log
+/jos.out
+/jos.out.*
+/jos.cmd
+/.gdbinit
+/wget.log
+/slirp.cap
+/qemu.out
+/qemu.log
+/lab?-handin.tar.gz
+/lab?/
+/sol?/
+/conf/lab.mk
